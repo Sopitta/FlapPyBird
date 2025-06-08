@@ -2,7 +2,7 @@
 
 A Flappy Bird Clone made using python-pygame with added pose detection controls using MediaPipe.
 
-Make the bird flaps by jumping
+Make the bird flap by jumping
 The game is from a flappy clone using pygame from 
 https://sourabhv.github.io/FlapPyBird. I only added src/
 flappy_jump.py and utils/pose_detector.py into the base 
