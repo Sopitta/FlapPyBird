@@ -19,7 +19,7 @@ game.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/xxx/FlapPyBird.git
+git clone https://github.com/Sopitta/FlapPyBird.git
 cd FlapPyBird
 ```
 
